@@ -2,6 +2,9 @@
 
 Hebrew University of Jerusalem  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
+[![Linkedin: OmerSiton](https://img.shields.io/badge/-omersiton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omersiton/)](https://www.linkedin.com/in/omersiton/)
+[![GitHub Sositon](https://img.shields.io/github/followers/sositon?label=follow&style=social)](https://github.com/sositon)
+![](https://visitor-badge.glitch.me/badge?page_id=sositon.sositon)
 
 ### My tech stack
 
@@ -35,13 +38,11 @@ Hebrew University of Jerusalem  </a><img src="https://media.giphy.com/media/fYSn
   
   ## 🗂️ Highlight Projects
 
-<a href="https://github.com/Zhenye-Na/DA-RNN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=DA-RNN&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+<a href="">
+  <img align="center" src="" alt="" />
 </a>
 
-<a href="https://github.com/Zhenye-Na/crnn-pytorch">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zhenye-na&repo=crnn-pytorch&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
+
 
 
 
