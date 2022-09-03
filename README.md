@@ -1,6 +1,6 @@
 <h2> Hi, I'm Omer Siton! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-Hebrew University of Jerusalem  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+CS Student at The Hebrew University of Jerusalem  </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 
 [![Linkedin: OmerSiton](https://img.shields.io/badge/-omersiton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/omersiton/)](https://www.linkedin.com/in/omersiton/)
 [![GitHub Sositon](https://img.shields.io/github/followers/sositon?label=follow&style=social)](https://github.com/sositon)
